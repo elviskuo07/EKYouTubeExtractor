@@ -1,0 +1,12 @@
+use_frameworks!
+
+target 'EKYouTubeExtractor_Example' do
+  pod 'Alamofire'
+  pod 'EKYouTubeExtractor', :path => '../'
+
+  target 'EKYouTubeExtractor_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
