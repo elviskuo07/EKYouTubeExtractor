@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'EKYouTubeExtractor'
-  s.version          = '1.0.0'
+  s.version          = '1.5.0'
   s.summary          = 'iOS YouTubeExtractor.'
 
 # This description is used to generate tags and improve search results.
@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/elviskuo07/EKYouTubeExtractor.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'elviskuo07' => 'elviskuocy@gmail.com' }
+  s.author           = { 'Elvis Kuo' => 'elviskuocy@gmail.com' }
   s.source           = { :git => 'https://github.com/elviskuo07/EKYouTubeExtractor.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 

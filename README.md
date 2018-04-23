@@ -22,7 +22,7 @@ pod 'EKYouTubeExtractor'
 
 ## Author
 
-elviskuocy@gmail.com, rdsayo@gmail.com
+elviskuocy@gmail.com
 
 ## License
 
