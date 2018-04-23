@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'EKYouTubeExtractor'
-  s.version          = '1.5.0'
+  s.version          = '1.0.1'
   s.summary          = 'iOS YouTubeExtractor.'
 
 # This description is used to generate tags and improve search results.
